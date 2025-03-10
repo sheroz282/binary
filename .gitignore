@@ -19,4 +19,4 @@ go.sum
 *.swp
 *.swo
 .DS_Store
-.log
+*.log
