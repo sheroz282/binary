@@ -1,0 +1,22 @@
+# Исключаем конфигурационные файлы и логи
+config/
+logs/
+
+# Go модули
+go.mod
+go.sum
+
+# Компилируемые файлы и кеш
+/bin/
+/pkg/
+*.exe
+*.out
+*.test
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+.log
